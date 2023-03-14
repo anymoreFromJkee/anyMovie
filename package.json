@@ -1,7 +1,11 @@
 {
   "name": "tmovies",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://anymorefromjkee.github.io/anyMovie",
+=======
+  "homepage": "https://anymorefromjkee.github.io/anymovie/",
+>>>>>>> 2f6556f057a44d37f170502aa93c979e8f4683c4
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
